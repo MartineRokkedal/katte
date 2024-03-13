@@ -1,0 +1,10 @@
+img {
+    width: 20rem;
+}
+
+.data {
+    display: flex;
+    flex-direction: row;
+    margin-top: 2rem;
+    justify-content: space-around;
+}
